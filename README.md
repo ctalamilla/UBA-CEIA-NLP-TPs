@@ -4,7 +4,7 @@ Este repositorio contiene los notebooks correspondientes a los desafíos prácti
 
 ---
 
-## 📘 Desafío 1 – Análisis de Similaridad entre Documentos
+## Desafío 1 – Análisis de Similaridad entre Documentos
 
 **Archivo:** `Desafio_01.ipynb`
 
@@ -21,7 +21,7 @@ Evaluar la capacidad de los modelos de vectorización para representar similitud
 
 ---
 
-## 📙 Desafío 2 – Embeddings personalizados con Gensim
+## Desafío 2 – Embeddings personalizados con Gensim
 
 **Archivo:** `Desafio_02.ipynb`
 
@@ -37,7 +37,7 @@ Comprender cómo el contexto específico de un corpus afecta la representación 
 
 ---
 
-## 📗 Desafío 3 – Modelo de Lenguaje con Tokenización por Caracteres
+## Desafío 3 – Modelo de Lenguaje con Tokenización por Caracteres
 
 **Archivo:** `Desafio_3_CristianSalinas.ipynb`
 
@@ -54,7 +54,7 @@ Desarrollar un modelo generativo de texto y entender el impacto de distintas arq
 
 ---
 
-## 📕 Desafío 4 – LSTM Bot QA (Conversational AI)
+## Desafío 4 – LSTM Bot QA (Conversational AI)
 
 **Archivo:** `Desafio_4CSalinas.ipynb`
 
